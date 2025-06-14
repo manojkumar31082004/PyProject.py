@@ -35,6 +35,7 @@ Job_Portal/
 2.**Dependencies**:
   ```bash
    pip install -r requirements.txt
-3.**Run**:
+
+## Run
 ```bash
    python app.py
