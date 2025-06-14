@@ -31,7 +31,6 @@ Job_Portal/
 
 1. **Clone or extract the repository**:
    ```bash
-   unzip Job_Portal.zip
    cd Job_Portal
 2.**Dependencies**:
   ```bash
